@@ -1,2 +1,6 @@
 print('mango')
 print('buffalo')
+print('chang')
+print('buffalo')
+print('buffalo')
+print('buffalo')
